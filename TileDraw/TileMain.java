@@ -1,5 +1,5 @@
 /*
- * Name: Diane Mueller
+ * Name: Amanda Moore and Dianne Mueller
  * Date: February 25, 2015
  * Course: CSC 212
  * Program: Assignment Ch10
